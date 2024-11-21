@@ -10,6 +10,7 @@ class Area {
         int bre = sc.nextInt();
         int area = r.getArea(len, bre);
         System.out.println("Area = " + area);
+        sc.close();
 
     }
 
