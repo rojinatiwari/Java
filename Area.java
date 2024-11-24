@@ -5,7 +5,7 @@ class Area {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Rectangle r = new Rectangle();
-        System.out.println("Enter length and breadth");
+        System.out.println("Enter length and breadth of the rectangle");
         int len = sc.nextInt();
         int bre = sc.nextInt();
         int area = r.getArea(len, bre);
