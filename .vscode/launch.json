@@ -1,0 +1,140 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "singleLevelInheritance",
+      "request": "launch",
+      "mainClass": "singleLevelInheritance",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "MarksValidation",
+      "request": "launch",
+      "mainClass": "MarksValidation",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AlternateCase",
+      "request": "launch",
+      "mainClass": "AlternateCase",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Area",
+      "request": "launch",
+      "mainClass": "Area",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Even1",
+      "request": "launch",
+      "mainClass": "Even1",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Even2",
+      "request": "launch",
+      "mainClass": "Even2",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Even3",
+      "request": "launch",
+      "mainClass": "Even3",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Mathoprn",
+      "request": "launch",
+      "mainClass": "Mathoprn",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Name",
+      "request": "launch",
+      "mainClass": "Name",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Odd",
+      "request": "launch",
+      "mainClass": "Odd",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome1",
+      "request": "launch",
+      "mainClass": "Palindrome1",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome2",
+      "request": "launch",
+      "mainClass": "Palindrome2",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "QuadraticRoots",
+      "request": "launch",
+      "mainClass": "QuadraticRoots",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "Sentence",
+      "request": "launch",
+      "mainClass": "Sentence",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "largest",
+      "request": "launch",
+      "mainClass": "largest",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "matrix",
+      "request": "launch",
+      "mainClass": "matrix",
+      "projectName": "Java_af37e13d"
+    },
+    {
+      "type": "java",
+      "name": "student",
+      "request": "launch",
+      "mainClass": "student",
+      "projectName": "Java_af37e13d"
+    }
+  ]
+}
